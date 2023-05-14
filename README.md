@@ -1,5 +1,5 @@
 
-# FastAPI - CRUD
+# FastAPI - CRUD - JWT
 
 A basic boilerplate for FastAPI CRUD along with JWT Token Authentication. <br/>
 + Since writting a code for simple application it required to go through documentation and dependency installation. <br/>
@@ -39,4 +39,4 @@ A basic boilerplate for FastAPI CRUD along with JWT Token Authentication. <br/>
 
 Shavej Shaikh - [@github](https://github.com/shavejshaikh) [@linkedin](https://www.linkedin.com/in/shavejshaikh/)
 
-Project Link - [https://github.com/shavejshaikh/Fastapi_crud](https://github.com/shavejshaikh/Fastapi_crud)
+Project Link - [https://github.com/shavejshaikh/Fastapi_crud_jwt](https://github.com/shavejshaikh/Fastapi_crud_jwt)
