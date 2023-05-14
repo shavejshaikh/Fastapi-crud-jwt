@@ -20,16 +20,9 @@ A basic boilerplate for FastAPI CRUD along with JWT Token Authentication. <br/>
   cd fastapicrud
 ```
 
-#### 2. Create the directory
-
-```bash
-  mkdir src
-  cd src
-```
-
 #### 3. Clone the code on machine
 ```bash
-  git clone 
+  git clone  https://github.com/shavejshaikh/Fastapi_crud_jwt.git
 ```
 
 #### 4. Run Application
@@ -46,4 +39,4 @@ A basic boilerplate for FastAPI CRUD along with JWT Token Authentication. <br/>
 
 Shavej Shaikh - [@github](https://github.com/shavejshaikh) [@linkedin](https://www.linkedin.com/in/shavejshaikh/)
 
-Project Link - [https://github.com/rzmk/fastapi-practice](https://github.com/rzmk/fastapi-practice)
+Project Link - [https://github.com/shavejshaikh/Fastapi_crud](https://github.com/shavejshaikh/Fastapi_crud)
