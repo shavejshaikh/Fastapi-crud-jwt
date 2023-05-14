@@ -1,0 +1,10 @@
+__pycache__/
+
+#  Database
+sql_app.db
+
+# Environments
+.env
+
+# Vscode
+launch.json
