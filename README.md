@@ -2,7 +2,7 @@
 # FastAPI - CRUD - JWT
 
 A basic boilerplate for FastAPI CRUD along with JWT Token Authentication. <br/>
-+ Since writting a code for simple application it required to go through documentation and dependency installation. <br/>
++ Since writting a code for application it required to go through documentation and dependency installation. <br/>
 + It's easy to install/clone the code and kick start the development.
 
 ## Screenshot
