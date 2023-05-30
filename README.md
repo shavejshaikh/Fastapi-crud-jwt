@@ -28,7 +28,7 @@ A basic boilerplate for FastAPI CRUD along with JWT Token Authentication. <br/>
 
 #### 3. Clone the code on machine
 ```bash
-  git clone  https://github.com/shavejshaikh/Fastapi_crud_jwt.git
+  git clone  https://github.com/shavejshaikh/fastapi_crud_jwt.git
 ```
 
 #### 4. Run Application
